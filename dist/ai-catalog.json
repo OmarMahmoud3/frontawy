@@ -1,0 +1,17 @@
+{
+  "catalogVersion": "1.0",
+  "name": "Frontawy Catalog",
+  "description": "فهرس موارد موقع فرونتاوي لوكلاء الذكاء الاصطناعي",
+  "resources": [
+    {
+      "name": "الرئيسية",
+      "url": "https://frontawy.vercel.app/",
+      "type": "text/html"
+    },
+    {
+      "name": "المشاريع",
+      "url": "https://frontawy.vercel.app/projects",
+      "type": "text/html"
+    }
+  ]
+}

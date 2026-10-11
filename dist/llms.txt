@@ -1,0 +1,14 @@
+# Frontawy - فرونتاوي
+
+> موقع فرونتاوي هو منصة مخصصة لـ [اكتب وصفاً قصيراً لموقعك، مثلاً: تقديم محتوى تعليمي ومقالات برمجية لتطوير الويب].
+
+## روابط أساسية
+
+- [الرئيسية](https://frontawy.vercel.app/)
+- [المشاريع](https://frontawy.vercel.app/projects)
+- [من نحن](https://frontawy.vercel.app/about)
+- [تواصل معنا](https://frontawy.vercel.app/contact)
+
+## الأقسام الرئيسية
+
+- [مقالات المقالات والدروس](https://frontawy.vercel.app/blog)
